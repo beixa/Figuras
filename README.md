@@ -8,7 +8,7 @@ herencia: Figura, Cuadrado, Rectángulo, Rombo y Triángulo. Y una última
 clase llamada Principal que simplemente tendrá un pequeño método que
 recorra una Lista. La jerarquía de las figuras es la siguiente:
 
-![Figuras](https://ibb.co/167zYc7)
+![Figuras](Figuras.png)
 
 La clase Figura es abstracta y tendrá un método llamado pintar(). El resto
 de clases heredarán de Figura (o de sus padres) y reimplementarán el
