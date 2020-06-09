@@ -1,0 +1,13 @@
+C:\Users\beiti\Desktop\Dev\Figuras\Figuras\bin\Debug\netcoreapp3.1\Figuras.exe
+C:\Users\beiti\Desktop\Dev\Figuras\Figuras\bin\Debug\netcoreapp3.1\Figuras.deps.json
+C:\Users\beiti\Desktop\Dev\Figuras\Figuras\bin\Debug\netcoreapp3.1\Figuras.runtimeconfig.json
+C:\Users\beiti\Desktop\Dev\Figuras\Figuras\bin\Debug\netcoreapp3.1\Figuras.runtimeconfig.dev.json
+C:\Users\beiti\Desktop\Dev\Figuras\Figuras\bin\Debug\netcoreapp3.1\Figuras.dll
+C:\Users\beiti\Desktop\Dev\Figuras\Figuras\bin\Debug\netcoreapp3.1\Figuras.pdb
+C:\Users\beiti\Desktop\Dev\Figuras\Figuras\obj\Debug\netcoreapp3.1\Figuras.csprojAssemblyReference.cache
+C:\Users\beiti\Desktop\Dev\Figuras\Figuras\obj\Debug\netcoreapp3.1\Figuras.AssemblyInfoInputs.cache
+C:\Users\beiti\Desktop\Dev\Figuras\Figuras\obj\Debug\netcoreapp3.1\Figuras.AssemblyInfo.cs
+C:\Users\beiti\Desktop\Dev\Figuras\Figuras\obj\Debug\netcoreapp3.1\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\beiti\Desktop\Dev\Figuras\Figuras\obj\Debug\netcoreapp3.1\Figuras.dll
+C:\Users\beiti\Desktop\Dev\Figuras\Figuras\obj\Debug\netcoreapp3.1\Figuras.pdb
+C:\Users\beiti\Desktop\Dev\Figuras\Figuras\obj\Debug\netcoreapp3.1\Figuras.genruntimeconfig.cache
