@@ -10,31 +10,19 @@ namespace Figuras
     }
     public class Cuadrado : Figura
     {
-        public override void Pintar()
-        {
-            Console.WriteLine("Cuadrado");
-        }
+        public override void Pintar() => Console.WriteLine("Cuadrado");
     }
     public class Triangulo : Figura
     {
-        public override void Pintar()
-        {
-            Console.WriteLine("Triangulo");
-        }
+        public override void Pintar() => Console.WriteLine("Triangulo");
     }
     public class Rectangulo : Cuadrado
     {
-        public override void Pintar()
-        {
-            Console.WriteLine("Rectangulo");
-        }
+        public override void Pintar() => Console.WriteLine("Rectangulo");
     }
     public class Rombo : Cuadrado
     {
-        public override void Pintar()
-        {
-            Console.WriteLine("Rombo");
-        }
+        public override void Pintar() => Console.WriteLine("Rombo");
     }
     class Principal
     {
@@ -56,8 +44,9 @@ namespace Figuras
             {
                 Console.Write("figuras de tipo triangulo: ");
                 t.Pintar();
-            }              
+            }
 
+            
             Console.ReadLine();
         }
     }
