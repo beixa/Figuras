@@ -26,14 +26,16 @@ namespace Figuras
     }
     class Principal
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            ArrayList figurasList = new ArrayList();
-            figurasList.Add(new Triangulo());
-            figurasList.Add(new Rectangulo());
-            figurasList.Add(new Triangulo());
-            figurasList.Add(new Rectangulo());
-            figurasList.Add(new Rombo());
+            ArrayList figurasList = new ArrayList
+            {
+                new Triangulo(),
+                new Rectangulo(),
+                new Triangulo(),
+                new Rectangulo(),
+                new Rombo()
+            };
 
             foreach (Cuadrado c in figurasList.OfType<Cuadrado>())
             {
@@ -45,7 +47,6 @@ namespace Figuras
                 Console.Write("figuras de tipo triangulo: ");
                 t.Pintar();
             }
-
             
             Console.ReadLine();
         }
